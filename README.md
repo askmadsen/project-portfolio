@@ -1,6 +1,13 @@
 # Project Portfolio
 
-A collection of my academic and personal projects in computer science, showcased through a GitHub Pages site.
+A curated collection of my academic and personal projects in computer science, showcased through a GitHub Pages site.
+
+## About
+
+This repository contains a range of projects demonstrating my skills and learning journey in computer science.  
+Projects include academic coursework (Python exercises, data structures, algorithms) as well as personal explorations in web development, machine learning, and other domains.  
+The portfolio is hosted as a [GitHub Pages site](https://askmadsen.github.io/project-portfolio/) for easy browsing and demonstration.
+
 
 ## Project Structure
 
@@ -27,10 +34,21 @@ project-portfolio/
         └─ ...
 ```
 
-<p align="center">
-    <a href="https://your-username.github.io">Visit the portfolio</a>
-</p>
 
-Explore individual repositories for detailed descriptions, setup guides, reports, and demos.
 
-**Contact:** [askmadsen@gmail.com](mailto:askmadsen@gmail.com)
+## How to Navigate
+
+- Visit the [live portfolio](https://askmadsen.github.io/project-portfolio/) to explore projects.  
+- **Academic Projects:** Organized by semester. Each project card links to the repository and report/exercise PDF if available.  
+- **Personal Projects:** Categorized by type (Web, AI, Mobile, etc.), each card links to the repository, demo, and report if available.
+
+## Portfolio Preview
+
+[![Portfolio Homepage](projects/images/homepage/homepage.png)](https://askmadsen.github.io/project-portfolio/)
+
+
+## Contact
+
+Email: [askmadsen@gmail.com](mailto:askmadsen@gmail.com)  
+GitHub: [https://github.com/askmadsen](https://github.com/askmadsen)  
+LinkedIn: [https://www.linkedin.com/in/ask-madsen-a49819142/](https://www.linkedin.com/in/ask-madsen-a49819142/)
